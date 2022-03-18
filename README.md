@@ -13,4 +13,4 @@ Lastly, we looked at it’s confusion matrix and computed the models precision, 
 
 ![Precision%20Recall%20Curve](https://github.com/LiLiu1118/Survival-prediction-for-the-Titanic-dataset/blob/main/Precision%20Recall%20Curve.png)
 
-![ROC AUC Curve](https://github.com/LiLiu1118/Survival-prediction-for-the-Titanic-dataset/blob/main/ROC AUC Curve.png)
+![ROC AUC Curve](https://github.com/LiLiu1118/Survival-prediction-for-the-Titanic-dataset/blob/main/ROC%20AUC%20Curve.png)
