@@ -11,11 +11,7 @@ During the data preprocessing part, we computed missing values, converted featur
 Afterwards we started training 8 different machine learning models, picked one of them (random forest) and applied cross validation on it. Then we discussed how random forest works, took a look at the importance it assigns to the different features and tuned it’s performace through optimizing it’s hyperparameter values.
 Lastly, we looked at it’s confusion matrix and computed the models precision, recall and f-score.
 
-![Precision%20Recall%20Curve](https://github.com/LiLiu1118/Survival-prediction-for-the-Titanic-dataset/blob/main/Precision%20Recall%20Curve.png)
-
-![ROC AUC Curve](https://github.com/LiLiu1118/Survival-prediction-for-the-Titanic-dataset/blob/main/ROC%20AUC%20Curve.png)
-
 <p float="left">
-  <img src="https://github.com/LiLiu1118/Survival-prediction-for-the-Titanic-dataset/blob/main/Precision%20Recall%20Curve.png" width="100" />
-  <img src="https://github.com/LiLiu1118/Survival-prediction-for-the-Titanic-dataset/blob/main/ROC%20AUC%20Curve.png" width="100" /> 
+  <img src="https://github.com/LiLiu1118/Survival-prediction-for-the-Titanic-dataset/blob/main/Precision%20Recall%20Curve.png" width="300" height="200"/>
+  <img src="https://github.com/LiLiu1118/Survival-prediction-for-the-Titanic-dataset/blob/main/ROC%20AUC%20Curve.png"  width="300" height="200" /> 
 </p>
