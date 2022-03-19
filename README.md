@@ -8,7 +8,7 @@ We started with the data exploration where we got a feeling for the dataset, che
 ![Age%20and%20Sex](https://github.com/LiLiu1118/Survival-prediction-for-the-Titanic-dataset/blob/main/Age%20and%20Sex.png)
 
 During the data preprocessing part, we computed missing values, converted features into numeric ones, grouped values into categories and created a few new features.
-Afterwards we started training 8 different machine learning models, picked one of them (random forest) and applied cross validation on it. Then we discussed how random forest works, took a look at the importance it assigns to the different features and tuned it’s performace through optimizing it’s hyperparameter values.
+Afterwards we started training 8 different machine learning models, such as **Stochastic Gradient Descent (SGD)**, **Support Vector Machine**, **K Nearest Neighborn** and so on, picked one of them (**Random Forest**) and applied cross validation on it. Then we discussed how random forest works, took a look at the importance it assigns to the different features and tuned it’s performace through optimizing it’s hyperparameter values.
 Lastly, we looked at it’s confusion matrix and computed the models precision, recall and f-score.
 
 <p float="left">
