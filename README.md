@@ -10,9 +10,10 @@ The data has been split into two groups:
     training set (train.csv)
     test set (test.csv)
 
-The training set should be used to build your machine learning models. For the training set, we provide the outcome (also known as the “ground truth”) for each passenger. Your model will be based on “features” like passengers’ gender and class. You can also use feature engineering to create new features. The test set should be used to see how well your model performs on unseen data. For the test set, we do not provide the ground truth for each passenger. It is your job to predict these outcomes. For each passenger in the test set, use the model you trained to predict whether or not they survived the sinking of the Titanic. We also include gender_submission.csv, a set of predictions that assume all and only female passengers survive, as an example of what a submission file should look like.
+The training set should be used to build our machine learning models. For the training set, the outcome (also known as the “ground truth”) for each passenger is provided. Our model will be based on “features” like passengers’ gender and class. We can also use feature engineering to create new features. The test set should be used to see how well your model performs on unseen data. For the test set, the ground truth for each passenger is not provided. It is our job to predict these outcomes. For each passenger in the test set, use the model you trained to predict whether or not they survived the sinking of the Titanic. We also have gender_submission.csv, a set of predictions that assume all and only female passengers survive.
 
-We started with the data exploration where we got a feeling for the dataset, checked about missing data and learned which features are important. During this process we used seaborn and matplotlib to do the visualizations.
+### Method
+We started with the data exploration where we looked into the dataset, checked about missing data and learned which features are important. During this process we used seaborn and matplotlib to do the visualizations.
 
 ![Age%20and%20Sex](https://github.com/LiLiu1118/Survival-prediction-for-the-Titanic-dataset/blob/main/Age%20and%20Sex.png)
 
